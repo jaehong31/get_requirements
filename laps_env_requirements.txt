@@ -7,9 +7,9 @@ gitdb==4.0.9
 GitPython==3.1.27
 higher==0.2.1
 idna==3.3
-numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1646717169554/work
+# numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1646717169554/work
 pathtools==0.1.2
-Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1645323150784/work
+# Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1645323150784/work
 promise==2.3
 protobuf==3.19.4
 psutil==5.9.0
@@ -28,7 +28,7 @@ torch==1.10.2
 torchaudio==0.10.2
 torchvision==0.11.3
 tqdm==4.63.1
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1644850595256/work
+# typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1644850595256/work
 urllib3==1.26.9
 wandb==0.12.11
 yacs==0.1.8
